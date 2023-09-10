@@ -3,6 +3,10 @@ This Plover dictionary helps you write Greek letters that are commonly used in m
 
 There are separate single-stroke and two-stroke dictionaries; you may use one or both.
 
+You may download them here and manually add them to your Plover dictionary. Descriptions are below.
+ * [Greek-Single-Stroke.json](./Greek-Single-Stroke.json)
+ * [Greek-Two-Stroke.json](./Greek-Two-Stroke.json)
+
 ## Single stroke dictionary: Brief overview 
 Include the additional `#` key in the usual finger-spelling stroke. This works for Greek letters that have a one-to-one Latin correspondant:
   * `#TK*` → δ (delta)
