@@ -74,7 +74,7 @@ Stroke the prefix `#TKPWR` before the usual fingerspelling stroke.
  | `#TKPWR/PH*` | mu |μ | |
  | `#TKPWR/TPH*` | nu |ν | |
  | `#TKPWR/KP*` or `#TKPWR/KP*P` | xi |ξ / Ξ | |
- | `#P*` or `#P*P` | pi |π / Π | |
+ | `#TKPWR/P*` or `#TKPWR/P*P` | pi |π / Π | |
  | `#TKPWR/R*` | rho |ρ | |
  | `#TKPWR/S*` or `#TKPWR/S*P` |sigma | σ / Σ  | |
  | `#TKPWR/T*` |tau |τ | |
