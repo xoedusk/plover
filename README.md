@@ -53,7 +53,7 @@ Include the `#` key in your usual fingerspelling stroke.
  | `#KH*` | chi |χ | |
  | `#SP*` or `#SP*P` | psi |ψ / Ψ | |
  | `#O*`or `#O*P`| omega | ω / Ω ||
-# Two-stroke dictionary
+## Two-stroke dictionary
 Stroke the prefix `#TKPWR` before the usual fingerspelling stroke.
  | Stroke | Letter | Glyph | Note |
  | ------ | ------ | ----- | ----- |
