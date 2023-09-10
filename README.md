@@ -9,18 +9,18 @@ Download the JSON dictionaries and add them to your list of Plover dictionaries.
  * [Greek-Two-Stroke.json](./Greek-Two-Stroke.json)
 
 ## Single stroke dictionary: Brief overview 
-Include the additional `#` key in the usual finger-spelling stroke. This works for Greek letters that have a one-to-one Latin correspondant:
+Most Greek letters have a one-to-one correspondance to Latin letters. For these, simply include the additional `#` key in the corresponding Latin finger-spelling stroke.
   * `#TK*` → δ (delta)
   * `#TK*P` → Δ (Delta)
   * Etc.
 
-Exceptions that don't have one-to-one correspondants can usually be guessed:
+Letters that don't have one-to-one correspondants can usually be guessed. 
  * `#TH*P` → Θ (Theta)
  * `#SP*` → ψ   (psi)
  * `#AOE*` → η (eta)
 
 > [!WARNING] 
-> The stroke `#TH*P` for capital Θ may conflict with the Plover default `#24*7` for '24/7'. You may define a new stroke for '24/7' if desired, or perhaps change `#TH*P` to `#H*P` for Θ.
+> The stroke `#TH*P` for capital Θ may conflict with the Plover default `#24*7` for '24/7'. Two possible fixes you can enact: define a new stroke for '24/7', or change the stroke for Θ from `#TH*P` to `#H*P`.
 
 ## Two-stroke dictionary: Brief overview
 Stroke the prefix `#TKPWR` (think `#GR`) before the usual finger-spelling stroke. This works for Greek letters that have a one-to-one Latin correspondant:
