@@ -1,9 +1,8 @@
 # Plover Greek Dictionary
 This Plover dictionary helps you write Greek letters that are commonly used in mathematics. Not all letters are supported since many of them look similar to Latin letters (e.g., capital A and capital Alpha). All Greek letter behave just like usual fingerspelling via the glue `{&}` command.
 
-There are separate single-stroke and two-stroke dictionaries; you may use one or both.
-
-You may download them here and manually add them to your Plover dictionary. Descriptions are below.
+There are separate **single-stroke** and **two-stroke** dictionaries; you may use one or both depending on your mood.
+Download them here and add the files to your list of Plover dictionaries.
  * [Greek-Single-Stroke.json](./Greek-Single-Stroke.json)
  * [Greek-Two-Stroke.json](./Greek-Two-Stroke.json)
 
@@ -11,6 +10,7 @@ You may download them here and manually add them to your Plover dictionary. Desc
 Include the additional `#` key in the usual finger-spelling stroke. This works for Greek letters that have a one-to-one Latin correspondant:
   * `#TK*` → δ (delta)
   * `#TK*P` → Δ (Delta)
+  * Etc.
 
 Exceptions that don't have one-to-one correspondants can usually be guessed:
  * `#TH*P` → Θ (Theta)
@@ -25,6 +25,7 @@ Stroke the prefix `#TKPWR` (think `#GR`) before the usual finger-spelling stroke
 
    * `#TKPWR/O*` → ω 
    * `#TKPWR/O*P` → Ω
+   * Etc.
 
 Exceptions that don't have one-to-one correspondants can usually be guessed:
  * `#TKPWR/TH*P` → Θ (Theta)
