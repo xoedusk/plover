@@ -1,5 +1,5 @@
 # Plover Greek Dictionary
-This Plover dictionary helps you write Greek letters that are commonly used in mathematics. Not all letters are supported since many of them look similar to Latin letters (e.g., capital A and capital Alpha). All Greek letter behave just like usual fingerspelling via the glue `{&}` command.
+This Plover dictionary helps you write Unicode Greek letters that are commonly used in mathematics. Not all letters are supported since many of them look similar to Latin letters (e.g., capital A and capital Alpha). The printed letters behave just like usual fingerspelling with regard to spacing via the glue `{&}` command.
 
 There are separate **single-stroke** and **two-stroke** dictionaries; you may use one or both depending on your mood.
 Download them here and add the files to your list of Plover dictionaries.
