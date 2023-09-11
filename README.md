@@ -23,7 +23,7 @@ Letters that don't have one-to-one correspondants can usually be guessed.
 > The stroke `#TH*P` for capital Θ may conflict with the Plover default `#24*7` for '24/7'. Two possible fixes you can enact: define a new stroke for '24/7', or change the stroke for Θ from `#TH*P` to `#H*P`.
 
 ## Two-stroke dictionary: Brief overview
-Stroke the prefix `#TKPWR` (think `#GR`) before the usual finger-spelling stroke. This works for Greek letters that have a one-to-one Latin correspondant:
+Most Greek letters have a one-to-one correspondance to Latin letters. For these, stroke the prefix `#TKPWR` (sounds like `#GR`) before the corresponding Latin finger-spelling stroke.
 
    * `#TKPWR/O*` → ω 
    * `#TKPWR/O*P` → Ω
