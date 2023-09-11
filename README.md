@@ -1,12 +1,15 @@
 # Plover Greek Dictionary
-This Plover dictionary helps you write Unicode Greek letters that are commonly used in mathematics. Not all Greek letters are supported since many look similar to the corresponding Latin letters, e.g., capital Latin A (A) and capital Greek Alpha (Α). 
+These JSON dictionaries for [Plover](https://www.openstenoproject.org/plover/) help you stroke Greek letters that are commonly used in mathematics.
 
-Regarding spaces, the Greek letters sent by Plover will behave just like usual fingerspelling with Latin letters.
+Regarding spaces, the Greek letters sent by Plover will behave just like usual fingerspelling with Latin letters. Output is in Unicode.
 
 There are separate **single-stroke** and **two-stroke** dictionaries; you may use one or both depending on your mood.
 Download the JSON dictionaries and add them to your list of Plover dictionaries.
  * [Greek-Single-Stroke.json](./Greek-Single-Stroke.json)
  * [Greek-Two-Stroke.json](./Greek-Two-Stroke.json)
+
+> [!NOTE]
+> Only Greek letters typically used in mathematics are supported; unsupported are letters that look similar to the corresponding Latin letters, e.g., capital Latin A (A) and capital Greek Alpha (Α).
 
 ## Single stroke dictionary: Brief overview 
 Most Greek letters have a one-to-one correspondance to Latin letters. For these, simply include the additional `#` key in the corresponding Latin finger-spelling stroke.
